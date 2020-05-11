@@ -24,6 +24,6 @@ Step 6. Run the script
       $python mufasa_scanner.py
 
 
-###CONTRIBUTORS
-[Mohit Khemchandani]github.com/mohitkhemchandani
+### Contributors : 
+[Mohit Khemchandani](github.com/mohitkhemchandani)
  
