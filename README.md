@@ -22,4 +22,8 @@ Step 5. Change the username and password in the script
 Step 6. Run the script
 
       $python mufasa_scanner.py
+
+
+###CONTRIBUTORS
+[Mohit Khemchandani]github.com/mohitkhemchandani
  
